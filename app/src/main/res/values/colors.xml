@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rainUp">#3D86ED</color>
+    <color name="rainDown">#3B74C9</color>
+    <color name="cloudUp">#45ADFF</color>
+    <color name="cloudDown">#2B8FED</color>
+    <color name="sunnyUp">#48CBFF</color>
+    <color name="sunnyDown">#49AFFF</color>
+    <color name="stormUp">#814DCD</color>
+    <color name="stormDown">#613799</color>
+    <color name="nightUp">#2E286E</color>
+    <color name="nightDown">#1B1B41</color>
+    <color name="snowUp">#9CDBFB</color>
+    <color name="snowDown">#2EB4FD</color>
+    <color name="fogUp">#BCD0DB</color>
+    <color name="fogDown">#5F7787</color>
+</resources>
